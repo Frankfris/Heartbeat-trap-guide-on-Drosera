@@ -149,5 +149,11 @@ shouldRespond: true
 responseData: "Your_Discord_Username"
 ```
 
+## Step 11 - View Trap Logs
+Run the following command to view logs for your deployed trap:
+
+```bash
+drosera logs --trap 0x<TrapAddress>
+```
 
 
